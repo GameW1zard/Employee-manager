@@ -17,12 +17,12 @@
  
  ## Installation 
  First make sure you have NODE and mySQL installed for your system. Then open the directory in the terminal and run node npm -i
- Installation and demo video [here]()
+ You will have to configure your .env file before running i have included a example one in the repository
       
  
  ## Usage 
  Run it with node app.js and when running in the CLI it will ask you questions on what you would like to do with your database!
-      
+ Demo video [here](https://youtu.be/mFzBzJL_Zqs)
  
  ## Contribution 
  Riven Loya Main work and implmentation
