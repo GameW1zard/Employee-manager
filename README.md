@@ -1,4 +1,4 @@
-# W1zards MD Generator [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+# Employee-Managerd [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
       
  
  ## Table of contents 
@@ -12,18 +12,16 @@
       
  
  ## Description 
- It is a project written in Javascript for NODE
- 
- ![screenshot of webpage](/Assets/Images/Untitled.png?raw=true " ")
-      
+ It is a project written in Javascript for NODE and mySQL
+       
  
  ## Installation 
- First make sure you have NODE installed for your system. Then open the directory in the terminal and run node npm -i
- Installation and demo video [here](https://youtu.be/lS6VsIEkjEs)
+ First make sure you have NODE and mySQL installed for your system. Then open the directory in the terminal and run node npm -i
+ Installation and demo video [here]()
       
  
  ## Usage 
- Run it with node index.js and when running in the CLI it will ask you questions to create the readme!
+ Run it with node app.js and when running in the CLI it will ask you questions on what you would like to do with your database!
       
  
  ## Contribution 
@@ -31,7 +29,7 @@
       
  
  ## Testing_instructions 
- Run index.js and upon awnsering all the questions a file shnould be in the output folder!
+ Upon running the file and creating the database you can check mySQL to make sure the database is created correctly
       
  
  ## License 
